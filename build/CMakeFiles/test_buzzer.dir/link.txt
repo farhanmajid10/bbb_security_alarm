@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_buzzer.dir/link.d CMakeFiles/test_buzzer.dir/test/test_buzzer.cpp.o -o test_buzzer  lib/GPIO/libGPIO.a lib/PWM/libPWM.a lib/Buzzer/libBuzzer.a

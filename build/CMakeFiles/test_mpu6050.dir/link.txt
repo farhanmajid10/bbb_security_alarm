@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_mpu6050.dir/link.d CMakeFiles/test_mpu6050.dir/test/test_mpu6050.cpp.o -o test_mpu6050  lib/I2CDevice/libI2CDevice.a lib/MPU6050/libMPU6050.a

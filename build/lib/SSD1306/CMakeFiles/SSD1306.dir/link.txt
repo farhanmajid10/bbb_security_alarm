@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSSD1306.a CMakeFiles/SSD1306.dir/SSD1306.cpp.o
+/usr/bin/ranlib libSSD1306.a

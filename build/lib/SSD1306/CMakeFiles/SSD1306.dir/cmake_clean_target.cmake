@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libSSD1306.a"
+)

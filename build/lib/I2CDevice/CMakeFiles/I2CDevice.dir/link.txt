@@ -1,0 +1,2 @@
+/usr/bin/ar qc libI2CDevice.a CMakeFiles/I2CDevice.dir/I2CDevice.cpp.o
+/usr/bin/ranlib libI2CDevice.a

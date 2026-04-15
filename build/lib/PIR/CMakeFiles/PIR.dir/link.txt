@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPIR.a CMakeFiles/PIR.dir/PIR.cpp.o
+/usr/bin/ranlib libPIR.a

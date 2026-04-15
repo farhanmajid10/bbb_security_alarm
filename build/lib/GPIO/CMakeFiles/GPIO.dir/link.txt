@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGPIO.a CMakeFiles/GPIO.dir/GPIO.cpp.o
+/usr/bin/ranlib libGPIO.a

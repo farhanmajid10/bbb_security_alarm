@@ -1,0 +1,3 @@
+lib/MPU6050/CMakeFiles/MPU6050.dir/MPU6050.cpp.o: \
+ /home/debian/projects/bbb_security_alarm/lib/MPU6050/MPU6050.cpp \
+ /usr/include/stdc-predef.h

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPWM.a CMakeFiles/PWM.dir/PWM.cpp.o
+/usr/bin/ranlib libPWM.a

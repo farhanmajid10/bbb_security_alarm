@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/security_alarm.dir/link.d CMakeFiles/security_alarm.dir/src/main.cpp.o -o security_alarm  lib/GPIO/libGPIO.a lib/PWM/libPWM.a lib/Buzzer/libBuzzer.a lib/MPU6050/libMPU6050.a lib/PIR/libPIR.a lib/SSD1306/libSSD1306.a lib/I2CDevice/libI2CDevice.a

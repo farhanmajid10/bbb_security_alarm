@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBuzzer.a CMakeFiles/Buzzer.dir/Buzzer.cpp.o
+/usr/bin/ranlib libBuzzer.a

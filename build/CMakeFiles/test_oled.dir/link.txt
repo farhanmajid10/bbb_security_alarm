@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_oled.dir/link.d CMakeFiles/test_oled.dir/test/test_oled.cpp.o -o test_oled  lib/I2CDevice/libI2CDevice.a lib/SSD1306/libSSD1306.a
